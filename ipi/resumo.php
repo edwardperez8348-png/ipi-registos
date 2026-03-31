@@ -32,7 +32,7 @@ if (empty($nome_cliente)) {
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Resumo Doc — ELI Espinho</title>
+  <title>Resumo Doc </title>
   <link rel="stylesheet" href="index.css"/>
   <style>
     .resumo-selector{width:100%;max-width:480px;background:var(--dark2);border:1px solid var(--border);border-radius:20px;overflow:hidden;box-shadow:0 24px 60px rgba(0,0,0,0.5);position:relative;}
@@ -76,7 +76,7 @@ if (empty($nome_cliente)) {
       <?php endif; ?>
     </div>
     <div class="resumo-footer">
-      <span>&copy; 2026 &middot; <strong>ELI Espinho</strong> &middot; Sistema de Registos</span>
+      <span>&copy; 2026 &middot; <strong>"LOCAL"</strong> &middot; Sistema de Registos</span>
     </div>
   </div>
 </body>
